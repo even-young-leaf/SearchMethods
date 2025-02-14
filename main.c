@@ -7,3 +7,5 @@ int main(void) {
     ElemType B[4] = {1,4,7,11};
     printf("%d\n",BinarySearch(B,4,8));
 }
+
+//mywww到此一游
